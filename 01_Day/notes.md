@@ -4,7 +4,7 @@
 
 Python is a high-level, interpreted, and beginner-friendly programming language. It is widely used in web development, data analysis, artificial intelligence, machine learning, automation, and many other fields.
 
----
+----
 
 ## 1. Python Syntax
 
@@ -195,5 +195,6 @@ Today I learned:
 * Basic Data Types
 * Using the `type()` Function
 * Taking User Input
+
 
 These concepts form the foundation of Python programming and are essential before learning conditionals, loops, functions, and advanced topics.

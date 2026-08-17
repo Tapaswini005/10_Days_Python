@@ -18,4 +18,4 @@ This repository contains my 10-day Python learning journey.
 - [ ] Day 10: Final Project
 
 ## Author
-Tapaswini Shaw
+Tapaswini Shaw (CSE-AIML)

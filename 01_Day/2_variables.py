@@ -1,7 +1,7 @@
-name = "Tapaswini"
-age = 20
-cgpa = 8.5
+Name = "Tapaswini"
+Age = 20
+Cgpa = 8.5
 
-print(name)
-print(age)
-print(cgpa)
+print(Name)
+print(Age)
+print(Cgpa)

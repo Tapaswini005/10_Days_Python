@@ -16,4 +16,4 @@ A simple Python project that collects student details using user input and displ
    python student_info.py
 
 ## Author
-Tapaswini Shaw
+Tapaswini Shaw (CSE-AIML)
