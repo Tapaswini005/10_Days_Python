@@ -7,7 +7,7 @@ This repository contains my 10-day Python learning journey.
 ## Progress
 
 - [x] Day 1: Basics (Syntax, Variables, Data Types)
-- [ ] Day 2: Conditionals
+- [x] Day 2: Conditionals
 - [ ] Day 3: Loops
 - [ ] Day 4: Functions
 - [ ] Day 5: Lists & Tuples
