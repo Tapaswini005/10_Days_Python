@@ -6,7 +6,7 @@ When working with different data types, sometimes we need to convert one data ty
 
 Exceptions are errors that occur during program execution. Python provides exception handling to prevent programs from crashing.
 
----
+----
 
 ## 1. Type Casting
 
