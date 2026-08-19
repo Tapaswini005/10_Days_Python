@@ -8,8 +8,8 @@ This repository contains my 10-day Python learning journey.
 
 - [x] Day 1: Basics (Syntax, Variables, Data Types)
 - [x] Day 2: Conditionals
-- [ ] Day 3: Loops
-- [ ] Day 4: Functions
+- [x] Day 3: Tpye Casting & Exceptions
+- [ ] Day 4: Loops & Functions
 - [ ] Day 5: Lists & Tuples
 - [ ] Day 6: Dictionaries & Sets
 - [ ] Day 7: File Handling
