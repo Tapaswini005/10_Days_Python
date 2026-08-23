@@ -110,7 +110,71 @@ greet("Tapaswini")
 
 ---
 
-## Advantages of Functions
+# 6. Built-in Functions
+
+Built-in functions are functions that Python provides by default. They can be used directly without importing any module.
+
+## print()
+
+Used to display output.
+
+Example:
+print("Hello World")
+
+## input()
+
+Used to take input from the user.
+
+Example:
+name = input("Enter your name: ")
+
+## type()
+
+Used to check the data type of a variable.
+
+Example:
+age = 20
+print(type(age))
+
+## len()
+
+Returns the length of a string, list, tuple, etc.
+
+Example:
+name = "Python"
+print(len(name))
+
+## range()
+
+Generates a sequence of numbers.
+
+Example:
+for i in range(1, 6):
+    print(i)
+
+## max()
+
+Returns the largest value.
+
+Example:
+print(max(10, 20, 30))
+
+## min()
+
+Returns the smallest value.
+
+Example:
+print(min(10, 20, 30))
+
+## sum()
+
+Returns the sum of values.
+
+Example:
+numbers = [10, 20, 30]
+print(sum(numbers))
+
+## Advantages of Built-in Functions
 
 * Reusability
 * Better code organization
@@ -128,5 +192,14 @@ Today I learned:
 * Nested Loops
 * Functions
 * Functions with Parameters
+* print()
+* input()
+* type()
+* len()
+* range()
+* max()
+* min()
+* sum()
 
-Loops help repeat tasks efficiently, while functions help organize and reuse code.
+
+Loops help repeat tasks efficiently, while functions help organize and reuse code and Built-in functions make Python programming easier and more efficient.
