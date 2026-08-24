@@ -11,7 +11,7 @@ This repository contains my 10-day Python learning journey.
 - [x] Day 3: Tpye Casting & Exceptions
 - [x] Day 4: Loops, Functions & Built-in Functions
 - [x] Day 5: Lists & Tuples
-- [ ] Day 6: Dictionaries & Sets
+- [x] Day 6: Dictionaries & Sets
 - [ ] Day 7: File Handling
 - [ ] Day 8: OOP
 - [ ] Day 9: Modules
