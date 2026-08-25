@@ -12,7 +12,7 @@ This repository contains my 10-day Python learning journey.
 - [x] Day 4: Loops, Functions & Built-in Functions
 - [x] Day 5: Lists & Tuples
 - [x] Day 6: Dictionaries & Sets
-- [ ] Day 7: File Handling
+- [x] Day 7: File Handling
 - [ ] Day 8: OOP
 - [ ] Day 9: Modules
 - [ ] Day 10: Final Project
