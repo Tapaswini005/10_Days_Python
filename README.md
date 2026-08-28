@@ -15,7 +15,7 @@ This repository contains my 10-day Python learning journey.
 - [x] Day 7: File Handling
 - [x] Day 8: OOP
 - [x] Day 9: Modules
-- [ ] Day 10: Final Project
+- [x] Day 10: Final Project
 
 ## Author
 Tapaswini Shaw (CSE-AIML)
