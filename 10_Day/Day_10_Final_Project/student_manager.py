@@ -2,9 +2,9 @@ students = []
 
 def add_student():
     try:
-        name = input("Enter Name: ")
-        age = int(input("Enter Age: "))
-        branch = input("Enter Branch: ")
+        name = input("Enter student Name: ")
+        age = int(input("Enter student Age: "))
+        branch = input("Enter which Branch: ")
 
         student = {
             "name": name,
